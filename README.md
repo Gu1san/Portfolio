@@ -15,3 +15,7 @@ Welcome to my portfolio! Below, you'll find a selection of projects I've worked 
 | Refúgio                 | A resource management game developed in Unity    | [Repository](https://github.com/Gu1san/Game-Jam-2024-2)     | -                                       |
 | N&F        | A 2D platformer game in Unity                    | [Repository](https://github.com/Gu1san/N_F)              | -                                       |
 
+### Other Projects
+| Project Name            | Description                                      | Repository Link                           | 
+|-------------------------|--------------------------------------------------|-------------------------------------------|
+| Pixel Analysis | A Python script that processes an image to detect and analyze specific elements: stars, meteors, and water | [Repository](https://github.com/Gu1san/Meteor-Challenge) 
