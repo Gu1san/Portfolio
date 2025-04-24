@@ -18,4 +18,4 @@ Welcome to my portfolio! Below, you'll find a selection of projects I've worked 
 ### Other Projects
 | Project Name            | Description                                      | Repository Link                           | 
 |-------------------------|--------------------------------------------------|-------------------------------------------|
-| Pixel Analysis | A Python script that processes an image to detect and analyze specific elements: stars, meteors, and water | [Repository](https://github.com/Gu1san/Meteor-Challenge) 
+| Pixel Analysis | A Python script that processes an image to detect and analyze elements based on pixel color | [Repository](https://github.com/Gu1san/Meteor-Challenge) 
