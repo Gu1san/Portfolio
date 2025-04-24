@@ -18,4 +18,4 @@ Bem-vindo ao meu portfólio! Abaixo, você encontrará uma seleção de projetos
 ### Outros Projetos
 | Nome do Projeto         | Descrição                                        | Link do Repositório                       |
 |-------------------------|--------------------------------------------------|-------------------------------------------|
-| Análise de Pixels       | Script em Python que processa uma imagem para detectar e analisar elementos como estrelas, meteoros e água | [Repositório](https://github.com/Gu1san/Meteor-Challenge)  |
+| Análise de Pixels       | Script em Python que processa uma imagem para detectar e analisar elementos baseado na cor dos pixels | [Repositório](https://github.com/Gu1san/Meteor-Challenge)  |
