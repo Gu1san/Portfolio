@@ -3,7 +3,7 @@ Welcome to my portfolio! Below, you'll find a selection of projects I've worked 
 
 ## Projects
 
-### Mobile Applications
+### Front-end
 | Project Name            | Description                                      | Repository Link                           | Demo                                     |
 |-------------------------|--------------------------------------------------|-------------------------------------------|-----------------------------------------|
 | App with Maps API       | A React Native app that uses Google Maps API for view vehicles routes | [Repository](https://github.com/Gu1san/DesafioSoftruck) | -       |
