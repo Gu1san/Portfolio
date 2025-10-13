@@ -8,6 +8,11 @@ Bem-vindo ao meu portfólio! Abaixo, você encontrará uma seleção de projetos
 |-------------------------|--------------------------------------------------|-------------------------------------------|
 | App com API do Maps     | Aplicativo em React Native que usa a API do Google Maps para exibir rotas de veículos | [Repositório](https://github.com/Gu1san/DesafioSoftruck) |
 
+### Back-end
+| Nome do Projeto         | Descrição                                        | Link do Repositório                       |
+|-------------------------|--------------------------------------------------|-------------------------------------------|
+| Gerenciador de finanças     | Parte do back-end de um gerenciador de finanças pessoal | [Repositório](https://github.com/Gu1san/Finance-Manager-Backend) |
+
 ### Jogos
 | Nome do Projeto         | Descrição                                        | Link do Repositório                       | Demo                                     |
 |-------------------------|--------------------------------------------------|-------------------------------------------|------------------------------------------|
