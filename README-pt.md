@@ -6,6 +6,7 @@ Bem-vindo ao meu portfólio! Abaixo, você encontrará uma seleção de projetos
 ### Front-end
 | Nome do Projeto         | Descrição                                        | Link do Repositório                       |
 |-------------------------|--------------------------------------------------|-------------------------------------------|
+| Curso Leeitramento Digital | Projeto web voltado para formação de educadores do Brasil | [Repositório](https://github.com/Gu1san/Leeitramentro-Digital)
 | App com API do Maps     | Aplicativo em React Native que usa a API do Google Maps para exibir rotas de veículos | [Repositório](https://github.com/Gu1san/DesafioSoftruck) |
 
 ### Back-end
