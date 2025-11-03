@@ -14,7 +14,7 @@ Bem-vindo ao meu portfólio! Abaixo, você encontrará uma seleção de projetos
 |-------------------------|--------------------------------------------------|-------------------------------------------|
 | Gerenciador de finanças     | Parte do back-end de um gerenciador de finanças pessoal | [Repositório](https://github.com/Gu1san/Finance-Manager-Backend) |
 
-### Jogos
+### Jogos (C#)
 | Nome do Projeto         | Descrição                                        | Link do Repositório                       | Demo                                     |
 |-------------------------|--------------------------------------------------|-------------------------------------------|------------------------------------------|
 | The Healing             | Jogo de quebra-cabeças desenvolvido na Unity     | [Repositório](https://github.com/Gu1san/GameJam2024-1)     | [Itch.io](https://yrving-souza.itch.io/the-healing) |
