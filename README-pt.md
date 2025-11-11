@@ -13,6 +13,7 @@ Bem-vindo ao meu portfólio! Abaixo, você encontrará uma seleção de projetos
 | Nome do Projeto         | Descrição                                        | Link do Repositório                       |
 |-------------------------|--------------------------------------------------|-------------------------------------------|
 | Gerenciador de finanças     | Parte do back-end de um gerenciador de finanças pessoal | [Repositório](https://github.com/Gu1san/Finance-Manager-Backend) |
+| Lista de tarefas | API de gerenciamento de tarefas em C#/.NET | [Repositório](https://github.com/Gu1san/ToDo-List)
 
 ### Jogos (C#)
 | Nome do Projeto         | Descrição                                        | Link do Repositório                       | Demo                                     |
